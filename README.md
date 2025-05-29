@@ -1,3 +1,3 @@
 # OCT-Retina-Classifier
 
-Tools: tensorflow keras numpy matplotlib opencv-python scikit-learn
+Tools: tensorflow keras numpy matplotlib EfficientNetB0
